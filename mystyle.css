@@ -1,0 +1,51 @@
+h1{
+    font-size: 50px;
+}
+#imgmain{
+    height: 25%;
+    width: 50%;
+    align-content: center;
+}
+.text-center{
+    text-align: center
+}
+#imggaleri{
+    height:300px;
+    width: 250px;
+    align-content: center;
+}
+#awal{
+    background-color:gold;
+    height:300px;
+    width: 250px;
+    float: left;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+#kedua{
+    background-color:gold;
+      height:300px;
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+}
+#ketiga{
+    background-color:gold;
+    height:300px;
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+}
+#keempat{
+    background-color:gold;
+    height:300px;
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+}
+#kelima{
+    background-color:gold;
+    height:300px;
+    width: 250px;
+    float: left;
+}
